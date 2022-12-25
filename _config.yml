@@ -31,7 +31,8 @@ github_username:  jekyll
 
 # Build settings
 # theme: minima
-theme: alembic-jekyll-theme
+# theme: alembic-jekyll-theme
+remote_theme: alembic-jekyll-theme
 
 
 # Site configuration
