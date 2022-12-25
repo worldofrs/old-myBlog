@@ -32,7 +32,7 @@ github_username:  jekyll
 # Build settings
 # theme: minima
 # theme: alembic-jekyll-theme
-remote_theme: alembic-jekyll-theme
+# remote_theme: alembic-jekyll-theme
 
 
 # Site configuration
@@ -57,7 +57,7 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - alembic-jekyll-theme.gemspec
-- .jekyll-cache
+- jekyll-cache
 
 # 2. Installed Gems
 plugins:
@@ -70,6 +70,7 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
+- github-pages
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
