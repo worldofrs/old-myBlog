@@ -21,6 +21,7 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jemoji"
 end
+gem "alembic-jekyll-theme", "~> 4.1.0"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
